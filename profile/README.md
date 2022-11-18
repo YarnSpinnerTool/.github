@@ -4,6 +4,9 @@ Yarn Spinner is used in games ranging from _Lost in Random_, to _Night in the Wo
 
 Yarn Spinner is open source, and free to use.
 
-* Get started with Yarn Spinner and learn more in the [documentation](https://docs.yarnspinner.dev).
+* [Try Yarn Spinner live online](https://try.yarnspinner.dev), and write stories, export playable self-contained HTML files, and more!
+* Get started with Yarn Spinner for your game engine, and learn more in the [documentation](https://docs.yarnspinner.dev).
 * Join the [community Discord server](https://discord.gg/yarnspinner) for help, motivation, and to chat to the developers.
 * [Support the team on Patreon](http://patreon.com/secretlab).
+
+Yarn Spinner is a project from [Secret Lab](https://secretlab.games) and friends.
