@@ -2,7 +2,7 @@
 
 Yarn Spinner is used in games ranging from _Lost in Random_, to _Night in the Woods_, _A Short Hike_, _Dredge_, _Escape Academy_, _Baladins_, _Frog Detective 2 and 3_, _Button City_, and _Unbeatable_.
 
-**You can support the team by buying Yarn Spinner (and some nice add-ons) at [the Yarn Spinner Itch.io Store](https://yarnspinner.itch.io) 😍**
+**You can support the team by buying Yarn Spinner (and some nice add-ons) at [the Yarn Spinner Itch.io Store](https://yarnspinner.itch.io) or [on the Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/yarn-spinner-for-unity-267061) 😍**
 
 * [Try Yarn Spinner live online](https://try.yarnspinner.dev), and write stories, export playable self-contained HTML files, and more!
 * Get started with Yarn Spinner for your game engine, and learn more in the [documentation](https://docs.yarnspinner.dev).
